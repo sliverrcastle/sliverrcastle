@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=380&section=header&text=EunSung%20Moon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=EunSung%20Moon&fontSize=90" />
 
 <h3 align="center">Skills<h3>
 <p align="center">
